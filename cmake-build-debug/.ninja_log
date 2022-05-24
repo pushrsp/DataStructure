@@ -1,11 +1,16 @@
 # ninja log v5
-1	269	1652960965755911533	CMakeFiles/DataStructure.dir/ReverseString.cpp.o	c1ce211808f14a6b
-2	203	1652966302957851405	CMakeFiles/DataStructure.dir/Hanoi.cpp.o	afb98a0903572ee3
-202	230	1653011777052266997	DataStructure	d8946fa9ff0235d8
-0	34	1653401595271309008	build.ninja	77c2d9836eba562a
-1	204	1652715577362611597	CMakeFiles/DataStructure.dir/Fib.cpp.o	fed27fcd929f949e
-1	195	1652715187155128032	CMakeFiles/DataStructure.dir/Factorial.cpp.o	b69ddc244f7c72b8
+0	258	1653402178745194637	CMakeFiles/DataStructure.dir/Graph/graph.cpp.o	c2f0f8de060f3406
 1	220	1652962744942249953	CMakeFiles/DataStructure.dir/Perm.cpp.o	d871d38f2be5a01f
 1	202	1653011777023458082	CMakeFiles/DataStructure.dir/BT.cpp.o	72785127db4afc1e
-0	258	1653402178745194637	CMakeFiles/DataStructure.dir/Graph/graph.cpp.o	c2f0f8de060f3406
-259	298	1653402178786612100	DataStructure	ebd92e6bb053db95
+1	204	1652715577362611597	CMakeFiles/DataStructure.dir/Fib.cpp.o	fed27fcd929f949e
+1	195	1652715187155128032	CMakeFiles/DataStructure.dir/Factorial.cpp.o	b69ddc244f7c72b8
+0	34	1653404469859534922	build.ninja	77c2d9836eba562a
+1	289	1653404204094958641	CMakeFiles/DataStructure.dir/Graph/dfs.cpp.o	a9b47863b16c91f6
+289	317	1653404204124057857	DataStructure	5ddbc083e71d85f6
+2	203	1652966302957851405	CMakeFiles/DataStructure.dir/Hanoi.cpp.o	afb98a0903572ee3
+1	269	1652960965755911533	CMakeFiles/DataStructure.dir/ReverseString.cpp.o	c1ce211808f14a6b
+0	34	1653404469859534922	build.ninja	77c2d9836eba562a
+0	298	1653404470161593882	CMakeFiles/DataStructure.dir/Graph/bfs.cpp.o	ec4355e48d81679e
+298	326	1653404470191578627	DataStructure	9c956e9ffd70471c
+1	298	1653404528862438189	CMakeFiles/DataStructure.dir/Graph/bfs.cpp.o	ec4355e48d81679e
+298	328	1653404528894543987	DataStructure	9c956e9ffd70471c
